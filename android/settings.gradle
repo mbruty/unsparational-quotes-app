@@ -1,0 +1,2 @@
+rootProject.name = "un-motivational-quotes"
+include ':app'
